@@ -19,7 +19,7 @@ Welcome to **ChillPollo**, the crossover project nobody asked for but everyone n
 
 ### 📸 Preview
 Expect sigma-level aesthetics that slap on every resolution. Live demo vibes included. <br>
-https://chillpollo.netlify.app
+https://chillpollo.netlify.app (doesnt show the images smh, fixing it..)
 
 ### 🚀 How to Run
 1) Clone this sigma repository.
